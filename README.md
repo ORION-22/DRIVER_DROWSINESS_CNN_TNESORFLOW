@@ -11,7 +11,7 @@ type  <h6>pip install -r requirements.txt<h6>
 
   
   <h2>Model Summary : models/eye_open_close.h5
-  Model: "sequential"<h2>
+  Model: "sequential"</h2><br>
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
 =================================================================
@@ -40,15 +40,16 @@ dense_2 (Dense)              (None, 2)                 258
 Total params: 2,682,658
 Trainable params: 2,682,658
 Non-trainable params: 0
+<br>
+ <br>
   
-  
-Model Summary: models/eye_open_close_v1.h5
+<h2>Model Summary: models/eye_open_close_v1.h5
 It is Mobilenet model . (Trained on 10.000 images )
   
   accuracy: 0.9974 
-  val_accuracy: 0.9954
+  val_accuracy: 0.9954<h2><br>
   
-Model: "model"
+<h6>Model: "model"
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
 =================================================================
@@ -238,17 +239,17 @@ activation (Activation)      (None, 1)                 0
 =================================================================
 Total params: 3,229,889
 Trainable params: 3,208,001
-Non-trainable params: 21,888
+Non-trainable params: 21,888<h6><br>
   
   
   
-DATA SET :
+DATA SET :<br>
  <H3>http://mrl.cs.vsb.cz/eyedataset<H3>
  
   
    
-Reference:
-  1.https://www.youtube.com/watch?v=qwUIFKi4V48
+Reference:<br>
+  1.https://www.youtube.com/watch?v=qwUIFKi4V48<br>
   2.https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
 
 
