@@ -10,8 +10,8 @@ open cmd
 type  <h6>pip install -r requirements.txt<h6>
 
   
-  Model Summary : models/eye_open_close.h5
-  Model: "sequential"
+  <h2>Model Summary : models/eye_open_close.h5
+  Model: "sequential"<h2>
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
 =================================================================
