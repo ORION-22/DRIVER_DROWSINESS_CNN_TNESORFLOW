@@ -2,7 +2,7 @@
 Driver Drowsiness Detection program with model training and real time detection 
 Run the driver drowsiness for real time detection 
 
-run the jupyter notebook for model training 
+Run the jupyter notebook for model training 
 
 
 Insatll Required module: 
